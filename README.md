@@ -1,9 +1,5 @@
 # Foundry Fund Me
 
-This is my first smart contract deployd project.
-
-*[⭐️ Updraft | Foundry Fund Me](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/fund-me-project-setup)*
-
 - [Foundry Fund Me](#foundry-fund-me)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
