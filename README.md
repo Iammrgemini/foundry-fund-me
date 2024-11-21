@@ -16,12 +16,12 @@ This guide will help you get started with the project, whether you're running it
 
 ## Requirements
 
-### 1. Git
+### 1. Git  
 Ensure Git is installed by running:
 ```bash
 git --version
-Expected output:
 
+Expected Output:
 bash
 Copy code
 git version x.x.x
@@ -31,8 +31,7 @@ Install Foundry by following the instructions here. Check installation with:
 bash
 Copy code
 forge --version
-Expected output:
-
+Expected Output:
 bash
 Copy code
 forge 0.2.0 (or later)
@@ -116,10 +115,10 @@ bash
 Copy code
 forge fmt
 Additional Information
-This project was inspired by my studies but personalized for my own learning and growth.
-It demonstrates core concepts of Solidity, including smart contract deployment, interaction, and testing.
+This project was inspired by my studies but personalized for my own learning and growth. It demonstrates core concepts of Solidity, including smart contract deployment, interaction, and testing.
+
 Summary
 This project reflects my hands-on learning with Solidity, Foundry, and blockchain development. Feel free to explore, fork, or contribute!
 
-Thank you!
+Thank You!
 If you found this project helpful, consider following me or connecting to discuss blockchain and Ethereum development.
